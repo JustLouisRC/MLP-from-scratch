@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/JustLouisRC/MLP-from-scratch)
+![Last Commit](https://img.shields.io/github/last-commit/JustLouisRC/MLP-from-scratch)
+![Stars](https://img.shields.io/github/stars/JustLouisRC/MLP-from-scratch)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![NumPy](https://img.shields.io/badge/built%20with-NumPy-013243?logo=numpy&logoColor=white)
 # MLP-from-scratch
 
 A multi-layer perceptron built from scratch using only NumPy — no autograd, no PyTorch, no built-in layers. Built to understand backpropagation at the level of individual matrix operations.
